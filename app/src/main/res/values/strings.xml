@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Grid View</string>
+
+    <string-array name="countryNames">
+        <item> Australia </item>
+        <item> London </item>
+        <item>India </item>
+        <item> Canada</item>
+        <item>Mexico </item>
+        <item>UAE </item>
+        <item> Switzerland</item>
+        <item>Norway </item>
+        <item> Korea</item>
+        <item> Japan</item>
+
+
+    </string-array>
+
+
+</resources>
